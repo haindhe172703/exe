@@ -1,0 +1,21 @@
+h1{
+    color: green;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+h3{
+    color: green;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+p{
+    color: green;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+}

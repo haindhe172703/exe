@@ -1,0 +1,44 @@
+.detail-4{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.detail-4-col{
+    flex-basis: 44%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+    background: rgba(5, 57, 1, 0.665);
+    padding: 25px;
+    cursor: pointer;
+    display: flex;
+}
+.detail-4-col img{
+    height: 40px;
+    margin-left: 5px;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+.detail-4-col p{
+    padding: 0;
+    color: white;
+}
+.detail-4-col h3{
+    margin-top: 15px;
+    text-align: left;
+    color: white;
+}
+.detail-4-col .fa{
+    color: white;
+}
+
+@media(max-width: 700px){
+    .detail-4-col img{
+        height: 40px;
+        margin-left: 5px;
+        margin-right: 30px;
+        border-radius: 50%;
+    }
+}

@@ -1,0 +1,28 @@
+.detail-1{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.detail-1-col{
+    flex-basis: 31%;
+    background: ghostwhite;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+
+.detail-1-col:hover{
+    box-shadow: 0 0 20px 0 rgba(17, 79, 13, 0.325);
+}
+
+
+/* MOBILE WEB */
+@media(max-width: 700px){
+    .row{
+        flex-direction: column;
+    }
+
+}

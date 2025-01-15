@@ -1,0 +1,27 @@
+.detail-3 {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.detail-3-col{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+
+.detail-3-col img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.detail-3-col p{
+    padding: 0;
+}
+.detail-3-col h3{
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: center;
+}
